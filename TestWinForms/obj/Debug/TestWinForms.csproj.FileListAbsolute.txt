@@ -1,0 +1,11 @@
+C:\Users\ekado\source\repos\TestWinForms\TestWinForms\bin\Debug\TestWinForms.exe.config
+C:\Users\ekado\source\repos\TestWinForms\TestWinForms\bin\Debug\TestWinForms.exe
+C:\Users\ekado\source\repos\TestWinForms\TestWinForms\bin\Debug\TestWinForms.pdb
+C:\Users\ekado\source\repos\TestWinForms\TestWinForms\obj\Debug\TestWinForms.csproj.AssemblyReference.cache
+C:\Users\ekado\source\repos\TestWinForms\TestWinForms\obj\Debug\TestWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\ekado\source\repos\TestWinForms\TestWinForms\obj\Debug\TestWinForms.Form1.resources
+C:\Users\ekado\source\repos\TestWinForms\TestWinForms\obj\Debug\TestWinForms.Properties.Resources.resources
+C:\Users\ekado\source\repos\TestWinForms\TestWinForms\obj\Debug\TestWinForms.csproj.GenerateResource.cache
+C:\Users\ekado\source\repos\TestWinForms\TestWinForms\obj\Debug\TestWinForms.csproj.CoreCompileInputs.cache
+C:\Users\ekado\source\repos\TestWinForms\TestWinForms\obj\Debug\TestWinForms.exe
+C:\Users\ekado\source\repos\TestWinForms\TestWinForms\obj\Debug\TestWinForms.pdb
